@@ -1,4 +1,6 @@
 <script setup>
+import TheNavbar from "./components/TheNavbar.vue";
+
 useHead({
   title: 'Nuxt 3 Bulma Blog Template',
   link: [
